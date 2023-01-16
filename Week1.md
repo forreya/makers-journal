@@ -1,6 +1,5 @@
 # Week 1
 
-### Weekly
 #### Weekly Aims:
 1. Learn the basics of test driven development (TDD)
 2. Gain experience building programs as a pair (driver-navigator) 

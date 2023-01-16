@@ -1,11 +1,11 @@
-## Makers Portfolio
+# Makers Portfolio
 
 Documenting my journey through Makers Academy's 16 week Software Development course.
 
 ## What this repository will include:
-- Completed Challenges 
-- New concepts, ideas, and methods that I learn
-- My projects and the processes implemented to reach specific goals
+- Completed challenges/exercises
+- New concepts, ideas, and methods learned
+- Projects and the processes implemented to reach specific goals
 
 ## Understanding the Layout of Week.md files:
 *Each Week.md file will contain several sections to consolidate all my targets, achievements & learning in general.*
