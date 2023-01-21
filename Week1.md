@@ -22,7 +22,7 @@
 - **Test-drove a a single-class program** called 'GrammarStats', used RSpec to test drive.
 - **Test-drove a a multiple class-system** with 2 classes, 'Diary' & 'DiaryEntry'.
 - **Test-drove a a multiple class-system** with 2 classes, 'TodoList' & 'Todo'.
-[Link to repo]((https://github.com/forreya/golden-square/tree/main/phase-two))
+[Link to repo](https://github.com/forreya/golden-square/tree/main/phase-two)
 
 **Steps to TTD:**
 1. Write a small example of how the code might be used in the form of a 'test'.
