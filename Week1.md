@@ -6,6 +6,7 @@
 3. Understanding the common practices to debugging programs that contain errors. **✓**
 4. Gain the skills to be able to design programs to solve problems (single method, single class, maybe multiple class systems(?)) **✓**
 
+
 ### Weekly Objectives:
 1. Work through the 'Testing Bytes' section (TTD). 
 2. Individually debug 3 programs from the 'Skills Challenges'.
@@ -13,13 +14,15 @@
 4. Everyday, spend the afternoon pairing with another person to work through the 'Golden Square' challenges (implementing practices such as driver-navigator pairing, pushing to/pulling from repositories, utilizing the 'Live Share' extension on VS Code)
 5. Watch demonstration videos (after completing the exercises) to pick up new, unthought-of techniques to solving the problem.
 
+
 ### Evidence
 
-#### 1. [Test Driven Development](https://github.com/forreya/golden-square/tree/main/phase-two)
+#### 1. Test Driven Development
 - **Test-drove a method** called 'count_words' that takes a string as an argument and returns the number of words in that string, used RSpec to test drive.
 - **Test-drove a a single-class program** called 'GrammarStats', used RSpec to test drive.
 - **Test-drove a a multiple class-system** with 2 classes, 'Diary' & 'DiaryEntry'.
 - **Test-drove a a multiple class-system** with 2 classes, 'TodoList' & 'Todo'.
+[Link to repo]((https://github.com/forreya/golden-square/tree/main/phase-two))
 
 **Steps to TTD:**
 1. Write a small example of how the code might be used in the form of a 'test'.
@@ -40,8 +43,8 @@
 #### 4. Designing Programs
 - Created [design recipes](https://github.com/forreya/golden-square/tree/main/phase-two/recipes) for program's interfaces based off user stories. After this, TTD is implemented to develop the specified programs. These completed programs can be found [here](https://github.com/forreya/golden-square/tree/main/phase-two/lib) and the tests / specs can be found [here](https://github.com/forreya/golden-square/tree/main/phase-two/spec).
 - Designed a [multi-class journal program](https://github.com/forreya/golden-square/tree/main/phase-two/designing-multi-class-programs) based off a user story (done w/ pair programming). We made a [diagram](https://github.com/forreya/golden-square/blob/main/phase-two/designing-multi-class-programs/recipes/journal.md) to visualize the relationships between classes, created using [asciiflow](asciiflow.com). For the testing, we used a mixture of integration tests & unit tests to test drive the program (RSpec).
-- [Video of me]() individually designing and test driving a single-class program based off a user story.
-- [Video of me]() individually designing and test driving a multi-class program based off a user story.
+- [Video of me](https://github.com/forreya/makers-portfolio/blob/main/videos/task_tracker.mp4) individually test driving a single-method program.
+- [Video of me](https://github.com/forreya/makers-portfolio/blob/main/videos/music_tracker-challenge.mp4) individually test driving a single-class program.
 
 **Steps to Designing Multi-Class Programs:**
 1. Describe the problem.
@@ -50,6 +53,7 @@
 4. Create examples as unit tests.
 5. Implement the behaviour.
 6. Repeat steps 3-5 until program satisfies all requirements. May also need to revise the design, for example if a mistake was made earlier in the development.
+
 
 ### Daily Journal/Notes
 
@@ -66,6 +70,7 @@ More thoughts: A weak point of mine is debugging as I tend to just scour through
 #### Day 4:
 Useful Ruby methods that were discovered today:
 1. reduce() - can be used to take an array and reduce it to a single value. For example, can be used to sum all elements in an array with a single line.
+
 Example:
 ```ruby
 def sum(array)
@@ -75,6 +80,7 @@ p sum([5, 10, 20])
 # => 35
 ```
 2. scan(pattern) - searches through str, matching the pattern (which may be a Regexp or a String). For each match, a result is generated and either added to the result array or passed to the block. I used this method to search for british phone numbers through an array of journal entries by checking if each sub-string in each entry matched the regex given to the scan method.
+
 Example:
 ```ruby
 a = "cruel world"
@@ -83,5 +89,6 @@ a.scan(/.../)        #=> ["cru", "el ", "wor"]
 a.scan(/(...)/)      #=> [["cru"], ["el "], ["wor"]]
 a.scan(/(..)(..)/)   #=> [["cr", "ue"], ["l ", "wo"]]
 ```
+
 
 ### End-of-Week Evaluation
