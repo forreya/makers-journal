@@ -6,6 +6,7 @@
 3. Understanding the common practices to debugging programs that contain errors. **✓**
 4. Gain the skills to be able to design programs to solve problems (single method, single class, maybe multiple class systems(?)) **✓**
 
+<br/>
 
 ### Weekly Objectives:
 1. Work through the 'Testing Bytes' section (TTD). 
@@ -14,6 +15,7 @@
 4. Everyday, spend the afternoon pairing with another person to work through the 'Golden Square' challenges (implementing practices such as driver-navigator pairing, pushing to/pulling from repositories, utilizing the 'Live Share' extension on VS Code)
 5. Watch demonstration videos (after completing the exercises) to pick up new, unthought-of techniques to solving the problem.
 
+<br/>
 
 ### Evidence
 
@@ -55,6 +57,7 @@
 5. Implement the behaviour.
 6. Repeat steps 3-5 until program satisfies all requirements. May also need to revise the design, for example if a mistake was made earlier in the development.
 
+<br/>
 
 ### Daily Journal/Notes
 
@@ -91,5 +94,6 @@ a.scan(/(...)/)      #=> [["cru"], ["el "], ["wor"]]
 a.scan(/(..)(..)/)   #=> [["cr", "ue"], ["l ", "wo"]]
 ```
 
+<br/>
 
 ### End-of-Week Evaluation
