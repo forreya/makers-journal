@@ -22,6 +22,7 @@
 - **Test-drove a a single-class program** called 'GrammarStats', used RSpec to test drive.
 - **Test-drove a a multiple class-system** with 2 classes, 'Diary' & 'DiaryEntry'.
 - **Test-drove a a multiple class-system** with 2 classes, 'TodoList' & 'Todo'.
+
 [Link to repo](https://github.com/forreya/golden-square/tree/main/phase-two)
 
 **Steps to TTD:**
@@ -68,7 +69,7 @@ Some thoughts: Watching demonstration videos after completing challenges myself 
 More thoughts: A weak point of mine is debugging as I tend to just scour through my code until I find the issue, so I must develop good habits and practice 'discovery debugging' as in the long run it'll improve my workflow.
 
 #### Day 4:
-Useful Ruby methods that were discovered today:
+*Useful Ruby methods that were discovered today:*
 1. reduce() - can be used to take an array and reduce it to a single value. For example, can be used to sum all elements in an array with a single line.
 
 Example:
