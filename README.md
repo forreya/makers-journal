@@ -17,5 +17,6 @@ Documenting my journey through Makers Academy's 16 week Software Development cou
 ## Concepts & Programming Methods Learned:
 1. Test Driven Development (TDD)
 2. Pair Programming (driver-navigator pairing, pushing/pulling from github, etc)
+3. 
 
 
