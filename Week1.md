@@ -56,14 +56,18 @@
 ### Daily Journal/Notes
 
 #### Day 1:
-1. Set up multiple different projects using RSpec, Bundler, Ruby & Git to familiarize myself with setting up an RSpec project for TTD.
-2. Pair programmed with @Perspicacity11.
+Set up multiple different projects using RSpec, Bundler, Ruby & Git to familiarize myself with setting up an RSpec project for TTD.
+
+Pair programmed with @Perspicacity11.
 
 #### Day 2:
-Some thoughts: Watching demonstration videos after completing challenges myself helps build onto my existing knowledge and might help me pick up on new programming methods I hadn't thought of before.
+Some thoughts: Watching demonstration videos after completing challenges myself helps build onto my existing knowledge and might help me pick up on new programming methods I hadn't thought of before. 
+
+Pair programmed with @moeid9.
 
 #### Day 3:
 More thoughts: A weak point of mine is debugging as I tend to just scour through my code until I find the issue, so I must develop good habits and practice 'discovery debugging' as in the long run it'll improve my workflow.
+
 Day summary: Took a day to work from home by myself, worked through some TTD challenges and refined my knowledge on 'discovery debugging'.
 
 #### Day 4:
@@ -75,7 +79,7 @@ Example:
 def sum(array)
   array.reduce(0) { |sum, num| sum + num }
 end
-p sum([5, 10, 20])
+p sum([5, 10, 20])s
 # => 35
 ```
 2. scan(pattern) - searches through str, matching the pattern (which may be a Regexp or a String). For each match, a result is generated and either added to the result array or passed to the block. I used this method to search for british phone numbers through an array of journal entries by checking if each sub-string in each entry matched the regex given to the scan method.
@@ -91,7 +95,9 @@ a.scan(/(..)(..)/)   #=> [["cr", "ue"], ["l ", "wo"]]
 ---
 ### End-of-Week Evaluation
 *Were all the weekly aims achieved?*
+
 Yes, but some of them were slightly altered/modified towards the end of the week as I became more familiar with the concepts I had aimed to learn. Overall, I am happy with the progress I have made and hope to build upon these skills in the coming weeks.
 
 *Were there any roadblocks/difficulties you had to face?*
+
 The biggest challenge was learning to work with other people for extended periods of time. I have always been a 'lone-wolf' type of individual who would rather do everything alone given the opportunity, and towards the start of the week I was always exhausted by the 2nd hour of pair programming. Collaborating with others will inevitably be mentally draining but I recognize the importance of working with others in industry and so it's important to keep improving upon this skill.
