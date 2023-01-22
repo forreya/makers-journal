@@ -5,18 +5,14 @@
 2. Gain experience building programs as a pair (driver-navigator, VS live share, git collaborator, git branching) **✓**
 3. Understanding the common practices to debugging programs that contain errors. **✓**
 4. Gain the skills to be able to design programs to solve problems (single method, single class, maybe multiple class systems(?)) **✓**
-
-<br/>
-
+---
 ### Weekly Objectives:
 1. Work through the 'Testing Bytes' section (TTD). 
 2. Individually debug 3 programs from the 'Skills Challenges'.
 3. Begin making a document outlying reasons why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
 4. Everyday, spend the afternoon pairing with another person to work through the 'Golden Square' challenges (implementing practices such as driver-navigator pairing, pushing to/pulling from repositories, utilizing the 'Live Share' extension on VS Code)
 5. Watch demonstration videos (after completing the exercises) to pick up new, unthought-of techniques to solving the problem.
-
-<br/>
-
+---
 ### Evidence
 
 #### 1. Test Driven Development
@@ -56,9 +52,7 @@
 4. Create examples as unit tests.
 5. Implement the behaviour.
 6. Repeat steps 3-5 until program satisfies all requirements. May also need to revise the design, for example if a mistake was made earlier in the development.
-
-<br/>
-
+---
 ### Daily Journal/Notes
 
 #### Day 1:
@@ -70,6 +64,7 @@ Some thoughts: Watching demonstration videos after completing challenges myself 
 
 #### Day 3:
 More thoughts: A weak point of mine is debugging as I tend to just scour through my code until I find the issue, so I must develop good habits and practice 'discovery debugging' as in the long run it'll improve my workflow.
+Day summary: Took a day to work from home by myself, worked through some TTD challenges and refined my knowledge on 'discovery debugging'.
 
 #### Day 4:
 *Useful Ruby methods that were discovered today:*
@@ -93,7 +88,10 @@ a.scan(/.../)        #=> ["cru", "el ", "wor"]
 a.scan(/(...)/)      #=> [["cru"], ["el "], ["wor"]]
 a.scan(/(..)(..)/)   #=> [["cr", "ue"], ["l ", "wo"]]
 ```
-
-<br/>
-
+---
 ### End-of-Week Evaluation
+*Were all the weekly aims achieved?*
+Yes, but some of them were slightly altered/modified towards the end of the week as I became more familiar with the concepts I had aimed to learn. Overall, I am happy with the progress I have made and hope to build upon these skills in the coming weeks.
+
+*Were there any roadblocks/difficulties you had to face?*
+The biggest challenge was learning to work with other people for extended periods of time. I have always been a 'lone-wolf' type of individual who would rather do everything alone given the opportunity, and towards the start of the week I was always exhausted by the 2nd hour of pair programming. Collaborating with others will inevitably be mentally draining but I recognize the importance of working with others in industry and so it's important to keep improving upon this skill.
