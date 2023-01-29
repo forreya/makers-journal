@@ -17,11 +17,11 @@
 
 #### 1. Test Driven Development
 - **Test-drove a method** called 'count_words' that takes a string as an argument and returns the number of words in that string, used RSpec to test drive.
-- **Test-drove a a single-class program** called 'GrammarStats', used RSpec to test drive.
-- **Test-drove a a multiple class-system** with 2 classes, 'Diary' & 'DiaryEntry'.
-- **Test-drove a a multiple class-system** with 2 classes, 'TodoList' & 'Todo'.
+- **Test-drove a single-class program** called 'GrammarStats', used RSpec to test drive.
+- **Test-drove a multiple class-system** with 2 classes, 'Diary' & 'DiaryEntry'.
+- **Test-drove a multiple class-system** with 2 classes, 'TodoList' & 'Todo'.
 
-[Link to repo](https://github.com/forreya/golden-square/tree/main/phase-two)
+[Link to repo](https://github.com/forreya/golden-square/tree/main/phase-2)
 
 **Steps to TTD:**
 1. Write a small example of how the code might be used in the form of a 'test'.
@@ -33,15 +33,15 @@
 #### 2. Pair Programming
 - Learned the basic syntax of RSpec with @Perspicacity11 by writing simple tests together for straightforward 'single-method' programs. The aim here was to familiarize ourselves with RSpec and the idea of writing preliminary specs for programs that had not been developed yet.
 - Pair programmed as a pair for 4 hours with @moeid9 as a Git collaborator [here](https://github.com/moeid9/wk1). Worked on TTD together using VS live share and using Git collaboration.
-- Designed multiple multi-class programs [here](https://github.com/forreya/golden-square/tree/main/phase-two) over the course of 2 days. Worked side-by-side with @SimpleLuke in person, debugging our programs and refactoring our code together. Some useful Ruby methods such as 'scan()' and 'reduce()' were learned, along with some complex regex that were used to detect phone numbers from a page of contents.
+- Designed multiple multi-class programs [here](https://github.com/forreya/golden-square/tree/main/phase-2) over the course of 2 days. Worked side-by-side with @SimpleLuke in person, debugging our programs and refactoring our code together. Some useful Ruby methods such as 'scan()' and 'reduce()' were learned, along with some complex regex that were used to detect phone numbers from a page of contents.
 
 #### 3. Debugging Programs
-- Used 'print' and 'puts' statements to 'gain visibility' of values within my programs (discovery debugging). Debugged [this program](https://github.com/forreya/golden-square/blob/main/phase-two/lib/get_most_common_letter.rb) that initially had errors.
-- Used another debugging technique, **binding.irb**, which is an interactive debugger to debug [this program](https://github.com/forreya/golden-square/blob/main/phase-two/lib/letter_counter.rb).
+- Used 'print' and 'puts' statements to 'gain visibility' of values within my programs (discovery debugging). Debugged [this program](https://github.com/forreya/golden-square/blob/main/phase-2/lib/get_most_common_letter.rb) that initially had errors.
+- Used another debugging technique, **binding.irb**, which is an interactive debugger to debug [this program](https://github.com/forreya/golden-square/blob/main/phase-2/lib/letter_counter.rb).
 
 #### 4. Designing Programs
-- Created [design recipes](https://github.com/forreya/golden-square/tree/main/phase-two/recipes) for program's interfaces based off user stories. After this, TTD is implemented to develop the specified programs. These completed programs can be found [here](https://github.com/forreya/golden-square/tree/main/phase-two/lib) and the tests / specs can be found [here](https://github.com/forreya/golden-square/tree/main/phase-two/spec).
-- Designed a [multi-class journal program](https://github.com/forreya/golden-square/tree/main/phase-two/designing-multi-class-programs) based off a user story (done w/ pair programming). We made a [diagram](https://github.com/forreya/golden-square/blob/main/phase-two/designing-multi-class-programs/recipes/journal.md) to visualize the relationships between classes, created using [asciiflow](asciiflow.com). For the testing, we used a mixture of integration tests & unit tests to test drive the program (RSpec).
+- Created [design recipes](https://github.com/forreya/golden-square/tree/main/phase-2/recipes) for program's interfaces based off user stories. After this, TTD is implemented to develop the specified programs. These completed programs can be found [here](https://github.com/forreya/golden-square/tree/main/phase-2/lib) and the tests / specs can be found [here](https://github.com/forreya/golden-square/tree/main/phase-2/spec).
+- Designed a [multi-class journal program](https://github.com/forreya/golden-square/tree/main/phase-2/designing-multi-class-programs) based off a user story (done w/ pair programming). We made a [diagram](https://github.com/forreya/golden-square/blob/main/phase-2/designing-multi-class-programs/recipes/journal.md) to visualize the relationships between classes, created using [asciiflow](asciiflow.com). For the testing, we used a mixture of integration tests & unit tests to test drive the program (RSpec).
 - [Video of me](https://github.com/forreya/makers-portfolio/blob/main/videos/task_tracker.mp4) individually test driving a single-method program.
 - [Video of me](https://github.com/forreya/makers-portfolio/blob/main/videos/music_tracker-challenge.mp4) individually test driving a single-class program.
 
