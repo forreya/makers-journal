@@ -52,6 +52,7 @@ Finished up all of the 'Mocking Bites' section and the idea of _doubles_ for uni
 
 #### Day 5:
 Finished my [food-ordering system](https://github.com/forreya/food-ordering-system) which implements `twilio-ruby` to send texts to the user's phone number, informing them of the expected delivery time (calculated based on current server time, retrieved from an API) after an order is placed. This program allows the user to see a menu with prices, select from the available dishes, and see an itemised receipt with a grand total price.
+
 ---
 ### End-of-Week Evaluation
 *Were all the weekly aims achieved?*
