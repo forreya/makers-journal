@@ -15,4 +15,16 @@
 3. Implement web routes using a lightweight web framework
 4. Follow a debugging process for a web application
 5. Deploy a web application using a light cloud service such as Render
+
 ---
+### Evidence
+
+---
+### Daily Journal/Notes
+
+---
+### End-of-Week Evaluation
+*Were all the weekly aims achieved?*
+
+
+*Were there any roadblocks/difficulties you had to face?*

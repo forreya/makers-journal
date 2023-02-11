@@ -24,7 +24,7 @@
 2. Integrates the shop's database to 'app.rb' by using the PG gem, and through test-driven Repository classes.
 3. Used more advanced SQL database techniques such as 'joins' & implementing many-to-many table relationships. 
 
-#### 1. Settng up PostgreSQL and use SQL to read and manipulate data stored in an existing database
+#### 1. Setting up PostgreSQL and use SQL to read and manipulate data stored in an existing database
 - **Installed PostgreSQL on my laptop** using Homebrew.
 - **Learned how to use the built-in REPL, psql,** that can be used to directly type-in SQL to interact with databases.
 - **Learned how to import seeds, create databases, and to send SQL queries to databases**
