@@ -15,6 +15,7 @@
 5. Explain how a program communicates with its database by creating a sequence diagram.
 6. Develop a small terminal program that allows users to manage a shop database containing some items and orders.
 
+---
 ### Evidence
 
 #### Main Project - Shop Manager System
@@ -59,11 +60,12 @@ You can find evidence of this [here](https://github.com/forreya/SQL-database-pro
 - **I designed & test drove a music library system** that uses PostgreSQL to store, update, delete & display data on various albums & artists. The code, tests, seeds, and recipes for this database program can be found [here](https://github.com/forreya/music-library).
 
 In addition to this, most of the projects that have already been linked, including my [shop databasing manager](https://github.com/forreya/shop-database-manager) project all involved designing simple-to-complex repository classes and I had loads of practice developing these types of class methods throughout the week.
+
 ---
 ### Daily Journal/Notes
 
 #### Day 1:
-Installed `PostgreSQL` from the given [instructions](https://github.com/makersacademy/databases/blob/main/sql_bites/01_setting_up_database.md). Some random facts about 'psql':
+Installed `PostgreSQL` using the given [instructions](https://github.com/makersacademy/databases/blob/main/sql_bites/01_setting_up_database.md). Some random facts about 'psql':
 - Exit psql using \p
 - The -h option specifies the IP address of the machine PostgreSQL runs on. Use 127.0.0.1 for the local IP address of my machine, on which PostgreSQL runs.
 Also learnt to use TablePlus & learned object-relational mapping.
