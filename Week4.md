@@ -1,4 +1,4 @@
-# Week 3
+# Week 4
 
 ### Weekly Aims:
 1. Learn to explain the basics of how the HTTP protocol works.
@@ -18,6 +18,15 @@
 
 ---
 ### Evidence
+
+#### Main Project - Twitter Clone
+[Link here](https://github.com/forreya/twitter-clone). Skills practiced & challenges faced:
+1. Developed a small Twitter clone that will allow the users to post messages to a public stream.
+2. Integrated a database using the `pg` gem and Repository classes
+3. Used Sinatra, RSpec, HTML and ERB views to make dynamic webpages such as the **tweets** page or the **log-in** page.
+4. Saved all user & tweet information in a database, with keys that allow the system to link tweets to the *original poster*.
+
+#### 1. Understand how the HTTP protocol works.
 
 ---
 ### Daily Journal/Notes
