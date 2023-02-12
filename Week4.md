@@ -62,6 +62,7 @@ As previosuly mentioned, this aim was thoroughly practiced in both the [music li
 #### 5. Using Discovery debugging for web applications.
 
 _What discovery debugging is:_
+
 Discovery debugging is a software debugging technique that involves exploring a system or application to gain a deeper understanding of its behavior and identify the root cause of a problem. The goal of discovery debugging is to gain a better understanding of how the system works, as opposed to simply fixing a specific issue.
 
 I used discovery debugging to debug and fix the errors in all the programs listed in [this repository](https://github.com/forreya/web-applications/tree/main/projects_to_debug).
