@@ -113,6 +113,7 @@ When you retrieve data from a `timestamptz` column, PostgreSQL will automaticall
 ---
 ### End-of-Week Evaluation
 *Were all the weekly aims achieved?*
-
+The final aim was not achieved as I haven't finished my MVP of the `twitter clone` project yet. However, once I do complete all the features and code I intend to deploy the application so it runs remotely. 
 
 *Were there any roadblocks/difficulties you had to face?*
+Yes. Firstly, learning to build solid security within my apps was tough for me as I had a limited understanding of these security threats and how to protect my applications against them. I also struggled at first with ERB as its syntax was difficult to understand- from learning to embed Ruby code within HTML to learning how to pass variables and data between the controller and the view. These initial roadblocks eventually became learning curves as I slowly got familiar with concepts and programming ideas.
